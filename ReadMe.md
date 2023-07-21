@@ -18,7 +18,7 @@ $ git status
 <br>
 $ git add
 <br>
-$ git  commit -m "rakeshCommit"
+$ git  commit -m "nitishCommit"
 <br>
 $ git remote add origin https://github.com/rakesh1234-png/EcommerceApi.git
 <br>
